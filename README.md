@@ -5,7 +5,7 @@ Study Computer Engineering at Khon Kaen University , Thailand
 -------------------------------------------------------------
 
 <a href="https://www.github.com/phubadine" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/phubadine?logo=github&style=for-the-badge&color=64748b&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/phubadine?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff" /></a>
 ### Skills
 
 <p align="left">
@@ -26,6 +26,6 @@ src="https://img.shields.io/github/followers/phubadine?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/phubadine"><img src="https://github-readme-stats.vercel.app/api?username=phubadine&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="phubadine's GitHub stats" /></a>
+<a href="http://www.github.com/phubadine"><img src="https://github-readme-stats.vercel.app/api?username=phubadine&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="phubadine's GitHub stats" /></a>
 
-<a href="https://github.com/phubadine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadine&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/phubadine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadine&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
