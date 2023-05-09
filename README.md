@@ -10,8 +10,8 @@
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c53nn3eac7upyllxn48e0duzs14pq25iylpnul6w&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h3>Attention :</h3>
-💬 : I'm interested in Programming of Artificial intelligence and Robotics <br>
-🚩 : My goal is a Data Scientist and AI Engineer 
+**💬 : I'm interested in Programming of Artificial intelligence and Robotics**<br>
+*  🚩 : My goal is a Data Scientist and AI Engineer 
 
 <!-- <pre></pre> -->
 
