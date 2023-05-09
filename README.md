@@ -1,10 +1,13 @@
 <h1 align="center">Hi! 👋, I'm Phubadine Mehom</h1>
 <h3 align="center">I am studying in the Faculty of Computer Engineering at Khon Kaen University, Thailand</h3>
 
+<p align="center"><a href="https://www.github.com/phubadine" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/phubadine?logo=github&style=for-the-badge&color=64748b&labelColor=27285C" /></a></p>
+
+
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c53nn3eac7upyllxn48e0duzs14pq25iylpnul6w&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<a href="https://www.github.com/phubadine" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/phubadine?logo=github&style=for-the-badge&color=64748b&labelColor=27285C" /></a>
+
 
 <h3>Skills :</h3>
 
