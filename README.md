@@ -12,7 +12,7 @@
 <h3>Attention :</h3>
 💬 : I'm interested in Programming of Artificial intelligence and Robotics <br>
 🚩 : My goal is a Data Scientist and AI Engineer <br>
-✉ : **phubadine.m@kkumail.com** 
+✉ : phubadine.m@kkumail.com
 
 
 <!-- <pre></pre> -->
