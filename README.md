@@ -25,7 +25,7 @@
 <h3>Skills :</h3>
 
 <p align="left">
-<a href="[https://www.r-project.org/](https://www.ros.org/)" target="_blank" rel="noreferrer"><img src="https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png" alt="ROS" /></a>
+<a href="[https://www.r-project.org/](https://www.ros.org/)" target="_blank" rel="noreferrer"><img src="https://www.pilz.com/imagecache/mam/pilz/images/import/01_Products_and_Solutions/A0900_robotics/fittosize__752_0_53ab91fb2e1755765c20d5d1df8d5f9d_l_ros_logo_3c_2018_08_1000x562-desktop-1596543825.jpg" alt="ROS" /></a>
   
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
 <a href="https://www.tensorflow.org/?hl=th" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" alt="Tensorflow" /></a>  
